@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/git_learn/static/css/main.13a1f6fc.css",
+    "main.js": "/git_learn/static/js/main.26ca95d1.js",
+    "static/js/787.3a10787b.chunk.js": "/git_learn/static/js/787.3a10787b.chunk.js",
+    "index.html": "/git_learn/index.html",
+    "static/media/trash-solid.svg": "/git_learn/static/media/trash-solid.321d985cbeb9c91f04ec239df9ee6ae3.svg",
+    "static/media/check-solid.svg": "/git_learn/static/media/check-solid.dd6c36930fb39662c112759db7d7dc02.svg",
+    "main.13a1f6fc.css.map": "/git_learn/static/css/main.13a1f6fc.css.map",
+    "main.26ca95d1.js.map": "/git_learn/static/js/main.26ca95d1.js.map",
+    "787.3a10787b.chunk.js.map": "/git_learn/static/js/787.3a10787b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a1f6fc.css",
+    "static/js/main.26ca95d1.js"
+  ]
+}
